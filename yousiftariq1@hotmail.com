@@ -1,6 +1,5 @@
 user.email=yousiftariq1@hotmail.com
 user.name=YousifShafee
-user.useconfigonly=true
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false

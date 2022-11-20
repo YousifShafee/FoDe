@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fode/home/main_body_page.dart';
 import 'package:fode/res/colors.dart';
 import 'package:fode/widgets/big_text.dart';
 import 'package:fode/widgets/small_text.dart';
@@ -43,6 +44,8 @@ class MainPage extends StatelessWidget {
                 ),
               ],
             ),
+            // showing the body
+            const MainBodyPage(),
           ],
         ),
       ),
